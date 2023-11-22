@@ -30,16 +30,16 @@ function App() {
             <a href="#">Buy Now</a>
           </div>
           <div className="image">
-            <img src="/public/photo/download-removebg-preview (0).png" alt="Image" />
+            <img src="./download-removebg-preview (0).png" alt="Image" />
           </div>
         </div>
         {/* End Info Bar */}
         {/* Start Footer */}
         <div className="fotoer">
-          <img className="active" src="/public/photo/image-0.png" alt="image One" data-color="#343434" />
-          <img src="/public/photo/image-1.png" alt="image Two" data-color="#dfded9" />
-          <img src="/public/photo/image-2.png" alt="image Three" data-color="#464b5a" />
-          <img src="/public/photo/image-3.png" alt="image Four" data-color="#a49f99" />
+          <img className="active" src="./image-0.png" alt="image One" data-color="#343434" />
+          <img src="./image-1.png" alt="image Two" data-color="#dfded9" />
+          <img src="./image-2.png" alt="image Three" data-color="#464b5a" />
+          <img src="./image-3.png" alt="image Four" data-color="#a49f99" />
         </div>
         {/* End Footer */}
       </div>
