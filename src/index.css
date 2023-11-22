@@ -12,14 +12,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-
-h1 {
-  color: rgb(255, 230, 0);
-  background-color: black;
-  width: fit-content;
-  margin: 50px auto;
-  padding: 20px;
-  border-radius: 10px;
-  font-size: 40px;
-}
