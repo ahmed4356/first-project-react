@@ -1,3 +1,6 @@
+import Logo from "../comp/logo";
+
+
 function Prodects() {
     return (
         <div className="App">
@@ -5,9 +8,7 @@ function Prodects() {
                 {/* Start header  */}
                 <header>
                     <div className="logo">
-                        <a href="/">
-                            <img src="./png-apple-logo-9716.png" alt="Logo" />
-                        </a>
+                        <Logo />
                         <ul>
 
                             <li><a href="/Prodects">Products</a></li>
